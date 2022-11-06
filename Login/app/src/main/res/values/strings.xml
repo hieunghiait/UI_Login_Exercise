@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HUTECH STUDY</string>
+    <string name="title_login">Welcome to HUTECH App\n Login Form</string>
+    <string name="enter_username">UserName</string>
+    <string name="enter_password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="or_sign_in_with">or sign in with</string>
+
+</resources>
